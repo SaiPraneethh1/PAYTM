@@ -1,0 +1,115 @@
+/* start navbar css */
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    padding: 1.8%;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    margin-left: 5%;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.logo{
+    margin: 0% !important;
+}
+#signin{
+    background-color: #00baf2;
+    color: white;
+    border-radius: 25px;
+    padding: 1%;
+    margin-left: 1%;
+    border:none;
+    width: 10%;
+    font-weight: bold;
+    font-size: 18px;
+}
+#signin:hover{
+    background-color: #2b54a6;
+}
+/* end navbar css */
+/* Wallet css*/
+.wallet{
+    border-color: #f6f6f6;
+    text-align: center;
+    padding: 1%;
+}
+/* end wallet css */
+.sec2{
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 0% 5% 5%;
+    margin-top: 2%;
+}
+.UPI{
+    font-size: 24px;
+    font-weight: normal;
+    margin-left: 3%;
+}
+#app{
+    border: 1px solid black;
+    width: 48%;
+    border-radius: 23px;
+    padding: 2%;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 6%;
+}
+#app:hover{
+    background-color: white;
+    color: black;
+}
+#app i{
+    margin: 0% 2%;   
+}
+.one{
+    margin-top: 5%;
+    font-size: 50px;
+}
+.two{
+    margin-bottom: 4%;
+    font-size: 20px;
+}
+.two1{
+    margin-bottom: 4%;
+    font-size: 50px;
+}
+/*end section 2 css */
+/* Section 3 css */
+.sec3{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: #00adf2;
+}
+.head2{
+    padding-top: 4%;
+    padding-left: 7%;
+    text-align:left ;
+    font-size: 35px;
+    color:white;
+}
+.div3{
+    display: flex;
+    justify-content: center;
+    padding: 6%;
+    margin-left: 4%;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: 'Poppins', sans-serif;;
+}
+.div3 a{
+    text-decoration: none;
+    color: white;
+}
+/* end sec-3 */
+
+
