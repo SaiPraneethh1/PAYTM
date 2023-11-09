@@ -281,3 +281,47 @@ color:black;
     padding-top: 5%;
 }
 /* end section7 of css */
+.sec21{
+    padding: 15% 10% 3% 10%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+#sec21div1{
+    padding-left: 0%;
+    background-color: white;
+    color: black;
+}
+.sec21 div{
+    background-color: #00baf2;
+    margin: 0% 1%;
+    text-align: center;
+    color: white;
+    border-radius: 8%;
+}
+.sec21 img{
+    margin-top: 4%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    width: 80%;
+}
+.sec21 h1{
+    opacity: 100%;
+}
+/* section */
+.sec23{
+    display: flex;
+    padding: 4% 10%;
+    background-color: rgba(239,239,239,0.6);
+}
+.sec23 h1{
+    width: 20%;
+}
+.sec23div1{
+    margin-left: 40%;
+    width: 20%;
+}
+.sec23div1 a{
+    margin-right: 10%;
+}
